@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin: 20px;
+}
+
+.header {
+    background-color: #f8f9fa;
+    padding: 10px 20px;
+    text-align: center;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.sidebar {
+    width: 200px;
+    float: left;
+    border-right: 1px solid #e0e0e0;
+}
+
+.content {
+    margin-left: 220px;
+    padding: 20px;
+}
